@@ -1,0 +1,1168 @@
+﻿Log file open, 11/15/17 16:34:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: IMGD4900
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(864755931) SRandInit(864755931).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.809499
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.15-21.34.51:221][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.15-21.34.51:221][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.15-21.34.51:323][  0]LogInit: Computer: THE_POWER
+[2017.11.15-21.34.51:324][  0]LogInit: User: Henry
+[2017.11.15-21.34.51:324][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.15-21.34.51:324][  0]LogInit: High frequency timer resolution =3.410230 MHz
+[2017.11.15-21.34.51:324][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.11.15-21.34.51:334][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.15-21.34.51:334][  0]LogMemory: Process Physical Memory: 279.55 MB used, 279.55 MB peak
+[2017.11.15-21.34.51:334][  0]LogMemory: Process Virtual Memory: 278.28 MB used, 278.28 MB peak
+[2017.11.15-21.34.51:334][  0]LogMemory: Physical Memory: 6185.65 MB used,  1971.40 MB free, 8157.05 MB total
+[2017.11.15-21.34.51:334][  0]LogMemory: Virtual Memory: 672.84 MB used,  1971.40 MB free, 134217728.00 MB total
+[2017.11.15-21.34.52:846][  0]LogInit: Using OS detected language (en-US).
+[2017.11.15-21.34.52:846][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.15-21.34.53:210][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.15-21.35.01:932][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.15-21.35.02:026][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.11.15-21.35.02:026][  0]LogD3D11RHI:       8119/0/4078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.15-21.35.02:045][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.15-21.35.02:045][  0]LogD3D11RHI:       0/0/4078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.15-21.35.02:045][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.15-21.35.02:078][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.15-21.35.02:078][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.15-21.35.02:078][  0]LogWindows: EnumDisplayDevices:
+[2017.11.15-21.35.02:078][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.11.15-21.35.02:078][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.15-21.35.02:079][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.15-21.35.02:079][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.15-21.35.02:079][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.15-21.35.02:079][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.11.15-21.35.02:080][  0]LogD3D11RHI:   Driver Version: 382.53 (internal:22.21.13.8253, unified:382.53)
+[2017.11.15-21.35.02:080][  0]LogD3D11RHI:      Driver Date: 6-7-2017
+[2017.11.15-21.35.02:080][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.15-21.35.02:180][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.15-21.35.02:422][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.15-21.35.02:565][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Intermediate/Shaders/WorkingDirectory/10860/).
+[2017.11.15-21.35.02:565][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Henry/AppData/Local/Temp/UnrealShaderWorkingDir/C28EF5364BB84E4A025A80B043EEA473/'.
+[2017.11.15-21.35.02:565][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.15-21.35.10:691][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.15-21.35.10:824][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.15-21.35.10:933][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.15-21.35.11:055][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.15-21.35.11:222][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.15-21.35.11:338][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.15-21.35.11:449][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.15-21.35.11:559][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.15-21.35.11:670][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.15-21.35.11:850][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.15-21.35.11:999][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.15-21.35.12:123][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.15-21.35.12:214][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.15-21.35.12:341][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.15-21.35.12:443][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.15-21.35.12:634][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.15-21.35.12:635][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.15-21.35.12:768][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.15-21.35.13:039][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.15-21.35.13:091][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.15-21.35.13:293][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.15-21.35.13:390][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.15-21.35.13:512][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.15-21.35.13:722][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.15-21.35.13:743][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.15-21.35.16:119][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.15-21.35.17:643][  0]LogDerivedDataCache: Loaded boot cache 1.50s 106MB C:/Users/Henry/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.15-21.35.17:644][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Henry/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.15-21.35.17:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.15-21.35.17:644][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.15-21.35.17:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.15-21.35.17:644][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.15-21.35.17:715][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.15-21.35.17:769][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Henry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.15-21.35.17:992][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.15-21.35.18:090][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.15-21.35.18:192][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.15-21.35.18:192][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.15-21.35.32:638][  0]LogAssetRegistry: FAssetRegistry took 0.0524 seconds to start up
+[2017.11.15-21.35.37:120][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.15-21.35.46:402][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.15-21.35.51:459][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.15-21.35.51:827][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.15-21.35.51:897][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.15-21.35.51:897][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.15-21.35.51:897][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.15-21.35.51:897][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.15-21.36.06:011][  0]LogNetVersion: IMGD4900 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 30141507)
+[2017.11.15-21.36.15:910][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 3.060138 seconds
+[2017.11.15-21.36.16:003][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.15-21.36.16:003][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.15-21.36.16:025][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.15-21.36.16:187][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.15-21.38.09:992][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.15-21.38.10:758][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.15-21.38.19:732][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.15-21.38.22:960][  0]SourceControl: Source control is disabled
+[2017.11.15-21.38.22:960][  0]SourceControl: Source control is disabled
+[2017.11.15-21.38.23:152][  0]SourceControl: Source control is disabled
+[2017.11.15-21.38.23:347][  0]SourceControl: Source control is disabled
+[2017.11.15-21.38.26:310][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.15-21.38.26:999][  0]LogOcInput: OculusInput pre-init called
+[2017.11.15-21.38.28:334][  0]LogEngine: Initializing Engine...
+[2017.11.15-21.38.28:375][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.15-21.38.30:044][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.15-21.38.30:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.020 s
+[2017.11.15-21.38.31:249][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.15-21.38.31:850][  0]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-21.38.31:978][  0]LogInit: FAudioDevice initialized.
+[2017.11.15-21.38.32:275][  0]LogDerivedDataCache: Saved boot cache 0.25s 106MB C:/Users/Henry/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.15-21.38.32:292][  0]LogInit: Texture streaming: Enabled
+[2017.11.15-21.38.33:651][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.15-21.38.33:651][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={26E9F9DA-45C3-6AA5-5789-9CAB7A67C950}
+[2017.11.15-21.38.35:620][  0]LogInit: Transaction tracking system initialized
+[2017.11.15-21.38.36:959][  0]BlueprintLog: New page: Editor Load
+[2017.11.15-21.38.40:281][  0]LocalizationService: Localization service is disabled
+[2017.11.15-21.38.42:639][  0]LogConsoleResponse: Display: 
+[2017.11.15-21.38.45:612][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/' took 0.07s
+[2017.11.15-21.38.45:613][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.15-21.38.45:613][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.15-21.38.45:670][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.15-21.38.51:846][  0]SourceControl: Source control is disabled
+[2017.11.15-21.38.52:012][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.15-21.38.52:110][  0]LightingResults: New page: Lighting Build
+[2017.11.15-21.38.52:667][  0]MapCheck: New page: Map Check
+[2017.11.15-21.38.52:667][  0]LightingResults: New page: Lighting Build
+[2017.11.15-21.38.56:397][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2017.11.15-21.38.56:653][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0264.17] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 1,080 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2017.11.15-21.39.04:468][  0]LogTexture: Display: Building textures: blood_texture_Atlas (AutoDXT, 1024X1024)
+[2017.11.15-21.39.07:157][  0]LogMaterial: Missing cached shader map for material decal_blood, compiling. 
+[2017.11.15-21.39.10:340][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2017.11.15-21.39.10:554][  0]LogMaterial: Missing cached shader map for material mat_screen_distortion, compiling. 
+[2017.11.15-21.39.11:788][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-21.39.15:678][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.15-21.39.16:239][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.15-21.39.17:183][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 943.774ms to complete.
+[2017.11.15-21.39.17:250][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 25.254
+[2017.11.15-21.39.20:358][  0]LogCollectionManager: Loaded 0 collections in 0.003028 seconds
+[2017.11.15-21.39.20:639][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/Collections/' took 0.01s
+[2017.11.15-21.39.20:639][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Developers/Henry/Collections/' took 0.01s
+[2017.11.15-21.39.20:639][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Collections/' took 0.01s
+[2017.11.15-21.39.20:639][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.15-21.39.20:652][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2386 classes and 500 folders.
+[2017.11.15-21.39.20:876][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.11.15-21.39.23:001][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.11.15-21.39.23:253][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.11.15-21.39.24:555][  0]LogSlate: Took 0.018183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.15-21.39.24:579][  0]LogSlate: Took 0.011598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.15-21.39.24:733][  0]LogSlate: Took 0.048992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.15-21.39.25:842][  0]LogRenderer: Reallocating scene render targets to support 1112x600 Format 10 NumSamples 1 (Frame:1).
+[2017.11.15-21.39.27:408][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.11.15-21.39.27:409][  0]LogLoad: (Engine Initialization) Total time: 294.93 seconds
+[2017.11.15-21.39.27:409][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.15-21.39.27:445][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.15-21.39.29:959][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.15-21.39.30:739][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/' took 2.23s
+[2017.11.15-21.39.31:237][  1]LogSlate: Took 0.081014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.15-21.39.31:906][  2]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.15-21.39.33:133][  5]LogAssetRegistry: Asset discovery search completed in 240.5180 seconds
+[2017.11.15-21.39.33:136][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.15-21.39.33:136][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000110 seconds (updated 0 objects)
+[2017.11.15-21.39.47:753][371]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-21.39.56:330][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-21.39.56:335][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-21.39.56:454][371]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2017, 11:39:56 AM)
+[2017.11.15-21.39.56:475][371]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-21.39.56:627][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152414s)
+[2017.11.15-21.39.56:628][371]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-21.39.56:628][371]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2017.11.15-21.39.56:632][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.158981s)
+[2017.11.15-21.39.56:671][371]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-21.39.56:679][371]LogInit: FAudioDevice initialized.
+[2017.11.15-21.39.56:837][371]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-21.39.57:037][371]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.15-16.39.57
+[2017.11.15-21.39.57:291][371]LogWorld: Bringing up level for play took: 0.285295
+[2017.11.15-21.39.57:793][371]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 11 classes and 0 folders.
+[2017.11.15-21.39.57:917][371]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.944
+[2017.11.15-21.39.57:918][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-21.40.10:469][756]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2017.11.15-21.40.10:670][778]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.10:680][779]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.10:938][809]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.10:938][809]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.13:794][130]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2017.11.15-21.40.14:029][155]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.14:285][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.14:294][186]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.14:294][186]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.16:564][446]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2017.11.15-21.40.16:793][473]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.17:052][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.17:060][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.17:060][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.18:538][674]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2017.11.15-21.40.18:767][701]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.19:027][730]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.19:036][731]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.19:036][731]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.20:163][859]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2017.11.15-21.40.20:390][886]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.20:398][887]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.20:651][917]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.20:660][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.20:660][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.22:450][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2017.11.15-21.40.22:681][150]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.22:944][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.22:944][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.24:847][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2017.11.15-21.40.25:080][424]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.25:340][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.25:340][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.33:659][374]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2017.11.15-21.40.33:893][401]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.34:152][430]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.34:152][430]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.35:721][610]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.35:976][640]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.35:985][641]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.35:985][641]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.37:635][831]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.37:896][861]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.37:905][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.37:905][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.39:267][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2017.11.15-21.40.39:493][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.39:502][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.39:761][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.39:761][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.41:685][286]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NOW SHINE
+[2017.11.15-21.40.41:939][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.41:948][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] NO SHINE
+[2017.11.15-21.40.41:948][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Dodge Done
+[2017.11.15-21.40.48:502][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.40.48:585][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.40.48:585][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.40.51:238][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.40.51:315][380]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.40.51:315][380]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.40.54:093][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.40.54:183][707]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.40.54:183][707]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.40.56:162][929]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.40.56:239][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.40.56:239][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.41.02:811][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.41.02:863][692]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.41.02:863][692]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.41.06:113][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-21.41.06:207][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-21.41.16:037][109]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.15-21.41.16:804][109]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.15-21.41.17:519][109]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.11.15-21.41.19:720][109]LogSlate: Took 0.048154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.15-21.41.20:596][110]LogSlate: Took 0.040092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.15-21.41.48:405][733]BlueprintLog: New page: Compile BloodPool
+[2017.11.15-21.41.49:383][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Blood/BloodPool" FILE="../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset" SILENT=true
+[2017.11.15-21.41.49:648][764]LogSavePackage: Save=170.95ms
+[2017.11.15-21.41.49:648][764]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/BloodPoolE956A3F149685435EB0DAA8A778B6B2B.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset'
+[2017.11.15-21.41.49:665][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset
+[2017.11.15-21.41.52:689][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Blood/BloodPool" FILE="../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset" SILENT=true
+[2017.11.15-21.41.52:824][917]LogSavePackage: Save=107.12ms
+[2017.11.15-21.41.52:824][917]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/BloodPoolCBD9CA464575ACA3B6719F85FFEE3C32.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset'
+[2017.11.15-21.41.52:829][917]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset
+[2017.11.15-21.42.03:896][670]BlueprintLog: New page: Compile BloodPool
+[2017.11.15-21.42.06:579][831]BlueprintLog: New page: Compile BloodPool
+[2017.11.15-21.42.07:388][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Blood/BloodPool" FILE="../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset" SILENT=true
+[2017.11.15-21.42.07:537][861]LogSavePackage: Save=114.93ms
+[2017.11.15-21.42.07:537][861]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/BloodPool0586C2B64E38C1D771822C98F1F9F9AF.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset'
+[2017.11.15-21.42.07:550][861]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset
+[2017.11.15-21.42.08:331][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Blood/BloodPool" FILE="../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset" SILENT=true
+[2017.11.15-21.42.08:466][917]LogSavePackage: Save=107.10ms
+[2017.11.15-21.42.08:466][917]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/BloodPoolEEDF544243C6B48D153BAF8829339DD4.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset'
+[2017.11.15-21.42.08:471][917]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Blood/BloodPool.uasset
+[2017.11.15-21.44.35:980][567]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.44.39:611][651]LogSavePackage: Save=714.57ms
+[2017.11.15-21.44.39:611][651]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter389FB7D44233FDB137008DA758EC0F62.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.44.39:620][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.45.12:147][614]LogSlate: Took 0.060248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.15-21.45.17:235][944]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.45.19:599][973]LogSavePackage: Save=685.17ms
+[2017.11.15-21.45.19:599][973]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterCF91DCA842FC0222D624AF98B3DB36DF.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.45.19:608][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.45.31:618][630]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.46.00:680][ 81]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.46.22:853][137]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.46.25:474][174]LogSavePackage: Save=659.10ms
+[2017.11.15-21.46.25:475][174]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter1BD1EE9444703A64945748ADE345857C.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.46.25:483][174]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.46.35:698][634]LogSavePackage: Save=662.56ms
+[2017.11.15-21.46.35:698][634]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterA47BF8FA443003F48EF08285085413E5.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.46.35:707][634]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.46.37:256][709]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.46.42:441][903]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.46.44:593][916]LogSavePackage: Save=671.29ms
+[2017.11.15-21.46.44:593][916]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterBAF5AF534B5A838ADE4976B949221629.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.46.44:602][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.48.01:983][426]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.48.05:381][513]LogSavePackage: Save=702.38ms
+[2017.11.15-21.48.05:381][513]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter8CB73EB948BCE4F5735CD4A7EB092E5D.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.48.05:391][513]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.48.20:864][411]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.48.22:702][411]LogSavePackage: Save=666.77ms
+[2017.11.15-21.48.22:702][411]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter092888A74494A58473E1A9B61CF50F98.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.48.22:710][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.48.31:267][852]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.48.33:493][869]LogSavePackage: Save=676.92ms
+[2017.11.15-21.48.33:494][869]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter2893990E4D4B5644AE4F7E9397FA644E.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.48.33:503][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.48.47:875][523]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.48.48:346][523]LogBlueprint: Error: [Compiler PlayerCharacter] In use pin  Current Blood Pool  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-21.48.48:347][523]LogBlueprint: Error: [Compiler PlayerCharacter] In use pin  Current Blood Pool  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-21.48.49:040][523]LogBlueprint: Warning: [Compiler PlayerCharacter] [0856.56] Compile of PlayerCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 1,164 ms] (/Game/ThirdPersonBP/Blueprints/PlayerCharacter.PlayerCharacter)
+[2017.11.15-21.49.03:143][ 75]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.49.03:560][ 75]LogBlueprint: Error: [Compiler PlayerCharacter] In use pin  Current Blood Pool  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.11.15-21.49.04:247][ 75]LogBlueprint: Warning: [Compiler PlayerCharacter] [0871.76] Compile of PlayerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,103 ms] (/Game/ThirdPersonBP/Blueprints/PlayerCharacter.PlayerCharacter)
+[2017.11.15-21.49.26:968][183]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.49.29:583][205]LogSavePackage: Save=668.39ms
+[2017.11.15-21.49.29:583][205]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterD9034FDB4A16588C46ACF0BCF26D4682.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.49.29:592][205]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.49.34:352][351]LogSavePackage: Save=696.95ms
+[2017.11.15-21.49.34:352][351]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter70538DF74454391EC49D1684B2E00D05.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.49.34:358][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.49.59:685][538]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.50.02:271][558]LogSavePackage: Save=672.98ms
+[2017.11.15-21.50.02:271][558]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter81581306460EB103C79188960F05619A.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.50.02:280][558]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.50.29:783][808]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.50.57:212][265]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.51.06:062][665]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.51.08:693][688]LogSavePackage: Save=700.55ms
+[2017.11.15-21.51.08:693][688]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter94EA81D84846A872225CDAACF282C315.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.51.08:702][688]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.51.24:878][660]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.51.27:190][661]LogSavePackage: Save=684.92ms
+[2017.11.15-21.51.27:190][661]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterED438732435F65BB3C49A8988C804846.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.51.27:199][661]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.51.28:239][759]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-21.51.28:349][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-21.51.28:349][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-21.51.28:349][759]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2017, 11:51:28 AM)
+[2017.11.15-21.51.28:349][759]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-21.51.28:376][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026154s)
+[2017.11.15-21.51.28:377][759]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-21.51.28:377][759]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2017.11.15-21.51.28:377][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028076s)
+[2017.11.15-21.51.28:407][759]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-21.51.28:414][759]LogInit: FAudioDevice initialized.
+[2017.11.15-21.51.28:449][759]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-21.51.28:456][759]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.15-16.51.28
+[2017.11.15-21.51.28:459][759]LogWorld: Bringing up level for play took: 0.009082
+[2017.11.15-21.51.28:461][759]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.512
+[2017.11.15-21.51.28:462][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-21.51.30:859][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.51.30:910][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Enter Slide
+[2017.11.15-21.51.30:919][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.51.30:919][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.51.31:971][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Exit Slide
+[2017.11.15-21.51.31:972][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] No more sliding
+[2017.11.15-21.51.34:949][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.51.35:035][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.51.35:035][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.51.36:945][737]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.51.37:004][744]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Enter Slide
+[2017.11.15-21.51.37:029][747]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.51.37:029][747]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.51.37:986][858]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Exit Slide
+[2017.11.15-21.51.37:987][858]LogBlueprintUserMessages: [ThirdPersonCharacter_167] No more sliding
+[2017.11.15-21.51.40:721][173]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.51.40:807][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.51.40:807][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.51.42:663][403]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.51.42:721][409]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Enter Slide
+[2017.11.15-21.51.42:748][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.51.42:748][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.51.43:745][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Exit Slide
+[2017.11.15-21.51.43:745][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] No more sliding
+[2017.11.15-21.51.48:549][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.51.48:601][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Enter Slide
+[2017.11.15-21.51.48:634][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.51.48:634][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.51.49:579][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Exit Slide
+[2017.11.15-21.51.49:579][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] No more sliding
+[2017.11.15-21.51.51:091][376]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.51.51:167][385]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.51.51:167][385]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.51.52:478][540]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-21.51.52:537][547]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Enter Slide
+[2017.11.15-21.51.52:571][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-21.51.52:571][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-21.51.53:555][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Exit Slide
+[2017.11.15-21.51.53:555][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] No more sliding
+[2017.11.15-21.51.54:186][739]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-21.51.54:229][739]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-21.51.55:229][799]LogSavePackage: Save=190.51ms
+[2017.11.15-21.51.55:229][799]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/ThirdPersonExampleMap3EF8A8E64B163E1DFE5A31997BA50BFF.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.15-21.51.55:239][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.15-21.51.55:492][799]LogSavePackage: Save=102.96ms
+[2017.11.15-21.51.55:492][799]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/ThirdPersonExampleMap_BuiltData4DC4CED44450E7AD22A992BE4F2887EA.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.15-21.51.55:496][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.15-21.52.26:182][349]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.52.28:793][366]LogSavePackage: Save=683.82ms
+[2017.11.15-21.52.28:793][366]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterB461BCF94D0C80F75235EA953C1C1376.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.52.28:802][366]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.53.28:161][633]LogSavePackage: Save=676.30ms
+[2017.11.15-21.53.28:161][633]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter702434104316F11A79E315A875F895C5.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-21.53.28:170][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-21.58.41:587][800]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-21.59.22:789][796]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.23:369][797]LogEditorTransaction: Undo Add Node
+[2017.11.15-21.59.23:489][797]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.23:540][797]LogEditorTransaction: Undo Move Nodes
+[2017.11.15-21.59.23:993][798]LogEditorTransaction: Undo Add Node
+[2017.11.15-21.59.26:952][932]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.27:708][944]LogEditorTransaction: Undo Add Node
+[2017.11.15-21.59.28:224][945]LogEditorTransaction: Undo Add Node
+[2017.11.15-21.59.29:128][967]LogEditorTransaction: Undo Move Nodes
+[2017.11.15-21.59.29:983][985]LogEditorTransaction: Undo Move Nodes
+[2017.11.15-21.59.30:797][  2]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.31:646][ 20]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.32:442][ 36]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.33:197][ 50]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.33:994][ 66]LogEditorTransaction: Undo Rename Node
+[2017.11.15-21.59.34:756][ 80]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.35:455][ 90]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.36:134][100]LogEditorTransaction: Undo Create Pin Link
+[2017.11.15-21.59.36:645][101]LogEditorTransaction: Undo Add Node
+[2017.11.15-21.59.36:759][101]LogEditorTransaction: Undo Break Pin Links
+[2017.11.15-21.59.36:810][101]LogEditorTransaction: Undo Move Nodes
+[2017.11.15-21.59.37:254][102]LogEditorTransaction: Undo Create Pin Link
+[2017.11.15-21.59.37:367][102]LogEditorTransaction: Undo Move Nodes
+[2017.11.15-21.59.37:420][102]LogEditorTransaction: Undo Create Pin Link
+[2017.11.15-21.59.37:817][103]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.37:929][103]LogEditorTransaction: Undo Add Node
+[2017.11.15-21.59.38:368][104]LogEditorTransaction: Undo Move Node
+[2017.11.15-21.59.46:188][366]LogEditorTransaction: Redo Move Node
+[2017.11.15-21.59.47:083][387]LogEditorTransaction: Redo Add Node
+[2017.11.15-21.59.47:600][388]LogEditorTransaction: Redo Move Node
+[2017.11.15-21.59.47:712][388]LogEditorTransaction: Redo Create Pin Link
+[2017.11.15-21.59.47:712][388]LogEditorTransaction: Redo Move Nodes
+[2017.11.15-21.59.47:763][388]LogEditorTransaction: Redo Create Pin Link
+[2017.11.15-21.59.48:210][389]LogEditorTransaction: Redo Move Nodes
+[2017.11.15-21.59.48:323][389]LogEditorTransaction: Redo Break Pin Links
+[2017.11.15-21.59.48:374][389]LogEditorTransaction: Redo Add Node
+[2017.11.15-21.59.48:428][389]LogEditorTransaction: Redo Create Pin Link
+[2017.11.15-21.59.48:883][390]LogEditorTransaction: Redo Move Node
+[2017.11.15-21.59.48:999][390]LogEditorTransaction: Redo Move Node
+[2017.11.15-21.59.49:051][390]LogEditorTransaction: Redo Rename Node
+[2017.11.15-21.59.49:101][390]LogEditorTransaction: Redo Move Node
+[2017.11.15-21.59.49:547][391]LogEditorTransaction: Redo Move Node
+[2017.11.15-21.59.49:658][391]LogEditorTransaction: Redo Move Node
+[2017.11.15-21.59.50:147][394]LogEditorTransaction: Redo Move Node
+[2017.11.15-21.59.50:645][395]LogEditorTransaction: Redo Move Nodes
+[2017.11.15-21.59.50:758][395]LogEditorTransaction: Redo Move Nodes
+[2017.11.15-21.59.50:808][395]LogEditorTransaction: Redo Add Node
+[2017.11.15-21.59.50:859][395]LogEditorTransaction: Redo Add Node
+[2017.11.15-21.59.51:317][396]LogEditorTransaction: Redo Move Node
+[2017.11.15-21.59.51:436][396]LogEditorTransaction: Redo Add Node
+[2017.11.15-21.59.51:486][396]LogEditorTransaction: Redo Move Nodes
+[2017.11.15-21.59.51:537][396]LogEditorTransaction: Redo Move Node
+[2017.11.15-21.59.51:994][397]LogEditorTransaction: Redo Add Node
+[2017.11.15-21.59.52:109][397]LogEditorTransaction: Redo Move Node
+[2017.11.15-22.00.43:820][866]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.02.24:376][374]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.03.17:315][190]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.03.21:602][330]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.03.27:351][518]LogSavePackage: Save=689.91ms
+[2017.11.15-22.03.27:351][518]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter8AE25DA04DEC36A257C8E4883031BE32.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-22.03.27:360][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-22.04.04:762][505]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.04.08:007][550]LogSavePackage: Save=709.21ms
+[2017.11.15-22.04.08:007][550]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterD151BA3147EAC342EBA58183BB3309F5.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-22.04.08:016][550]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-22.04.12:557][815]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.04.38:608][ 16]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.04.41:247][ 25]LogSavePackage: Save=724.13ms
+[2017.11.15-22.04.41:247][ 25]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter100365194AA97CBD450716BBFDD6D4AC.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-22.04.41:256][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-22.05.10:959][ 59]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.05.14:103][ 97]LogSavePackage: Save=704.06ms
+[2017.11.15-22.05.14:103][ 97]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter004CCDB646450D0560243F9559187D77.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-22.05.14:112][ 97]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-22.05.35:714][491]LogSavePackage: Save=700.12ms
+[2017.11.15-22.05.35:714][491]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterDAE94DAE457691C8872AD8AF2A971CA5.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-22.05.35:719][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-22.05.40:251][731]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.05.43:000][751]LogSavePackage: Save=707.14ms
+[2017.11.15-22.05.43:000][751]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacter2E2390DC435AF010DFE494AF7A1E1D8C.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-22.05.43:009][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-22.07.05:414][743]BlueprintLog: New page: Compile GargoyleCharacter
+[2017.11.15-22.07.07:834][761]LogSavePackage: Save=135.91ms
+[2017.11.15-22.07.07:834][761]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/GargoyleCharacter12804D9341BB43B169E3A399C255C598.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Enemies/GargoyleCharacter.uasset'
+[2017.11.15-22.07.07:872][761]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/Enemies/GargoyleCharacter.uasset
+[2017.11.15-22.07.13:842][173]BlueprintLog: New page: Compile ShotgunProjectile_BP
+[2017.11.15-22.07.15:457][195]LogSavePackage: Save=84.95ms
+[2017.11.15-22.07.15:457][195]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/ShotgunProjectile_BP03310FBA4822BCFDA57F2AA931699584.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset'
+[2017.11.15-22.07.15:465][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset
+[2017.11.15-22.07.17:979][451]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-22.07.18:030][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.07.18:030][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-22.07.18:030][451]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2017, 12:07:18 PM)
+[2017.11.15-22.07.18:030][451]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-22.07.18:063][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032666s)
+[2017.11.15-22.07.18:064][451]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-22.07.18:065][451]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2017.11.15-22.07.18:065][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034468s)
+[2017.11.15-22.07.18:093][451]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-22.07.18:098][451]LogInit: FAudioDevice initialized.
+[2017.11.15-22.07.18:131][451]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-22.07.18:139][451]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.15-17.07.18
+[2017.11.15-22.07.18:142][451]LogWorld: Bringing up level for play took: 0.009974
+[2017.11.15-22.07.18:144][451]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.829
+[2017.11.15-22.07.18:144][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.07.27:141][449]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.07.27:158][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_0] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:159][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_1] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:159][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_2] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:159][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_3] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:160][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_4] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:160][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_5] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:161][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_6] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:161][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_7] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:161][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_8] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:162][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_9] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:162][449]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_10] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.27:260][459]LogBlueprintUserMessages: [EnemyCharacter10] 99.0
+[2017.11.15-22.07.27:260][459]LogBlueprintUserMessages: [EnemyCharacter10] 98.0
+[2017.11.15-22.07.27:260][459]LogBlueprintUserMessages: [EnemyCharacter10] 97.0
+[2017.11.15-22.07.27:260][459]LogBlueprintUserMessages: [EnemyCharacter10] 96.0
+[2017.11.15-22.07.27:260][459]LogBlueprintUserMessages: [EnemyCharacter10] 95.0
+[2017.11.15-22.07.27:274][460]LogBlueprintUserMessages: [EnemyCharacter10] 94.0
+[2017.11.15-22.07.27:274][460]LogBlueprintUserMessages: [EnemyCharacter10] 93.0
+[2017.11.15-22.07.27:330][465]LogBlueprintUserMessages: [EnemyCharacter9] 99.0
+[2017.11.15-22.07.27:330][465]LogBlueprintUserMessages: [EnemyCharacter9] 98.0
+[2017.11.15-22.07.27:330][465]LogBlueprintUserMessages: [EnemyCharacter9] 97.0
+[2017.11.15-22.07.27:330][465]LogBlueprintUserMessages: [EnemyCharacter9] 96.0
+[2017.11.15-22.07.27:340][466]LogBlueprintUserMessages: [EnemyCharacter9] 95.0
+[2017.11.15-22.07.27:341][466]LogBlueprintUserMessages: [EnemyCharacter9] 94.0
+[2017.11.15-22.07.34:022][127]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-22.07.34:108][136]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-22.07.34:108][136]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-22.07.39:879][738]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-22.07.39:943][744]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Enter Slide
+[2017.11.15-22.07.39:964][746]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-22.07.39:965][746]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-22.07.40:326][785]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.07.40:327][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_11] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:328][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_12] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:328][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_13] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:328][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_14] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:329][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_15] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:329][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_16] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:329][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_17] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:330][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_18] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:330][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_19] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:331][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_20] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:331][785]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_21] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.40:973][851]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Exit Slide
+[2017.11.15-22.07.40:974][851]LogBlueprintUserMessages: [ThirdPersonCharacter_167] No more sliding
+[2017.11.15-22.07.43:555][106]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-22.07.43:630][114]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Enter Slide
+[2017.11.15-22.07.43:640][115]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-22.07.43:640][115]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-22.07.44:038][154]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.07.44:038][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_22] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:039][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_23] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:039][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_24] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:040][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_25] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:040][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_26] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:040][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_27] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:041][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_28] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:041][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_29] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:042][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_30] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:042][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_31] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:042][154]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_32] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.44:680][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Exit Slide
+[2017.11.15-22.07.44:680][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] No more sliding
+[2017.11.15-22.07.46:648][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-22.07.46:698][423]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Enter Slide
+[2017.11.15-22.07.46:720][425]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-22.07.46:720][425]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-22.07.47:074][462]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.07.47:075][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_33] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:075][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_34] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:076][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_35] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:076][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_36] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:076][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_37] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:077][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_38] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:077][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_39] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:078][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_40] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:078][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_41] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:078][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_42] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:079][462]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_43] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.47:742][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Exit Slide
+[2017.11.15-22.07.47:742][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] No more sliding
+[2017.11.15-22.07.51:354][902]LogBlueprintUserMessages: [ThirdPersonCharacter_167] FAST FALL!
+[2017.11.15-22.07.51:428][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Enter Slide
+[2017.11.15-22.07.51:438][911]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Premature Stop
+[2017.11.15-22.07.51:438][911]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Fall Done
+[2017.11.15-22.07.51:808][949]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.07.51:808][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_44] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.51:809][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_45] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.51:809][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_46] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.51:810][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_47] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.51:810][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_48] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.51:811][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_49] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.51:811][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_50] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.51:812][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_51] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.51:812][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_52] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.51:812][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_53] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.51:813][949]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_54] MY DAMAGE IS: 1.0
+[2017.11.15-22.07.52:093][971]LogBlueprintUserMessages: [EnemyCharacter10] 92.0
+[2017.11.15-22.07.52:093][971]LogBlueprintUserMessages: [EnemyCharacter10] 91.0
+[2017.11.15-22.07.52:094][971]LogBlueprintUserMessages: [EnemyCharacter10] 90.0
+[2017.11.15-22.07.52:107][972]LogBlueprintUserMessages: [EnemyCharacter9] 93.0
+[2017.11.15-22.07.52:107][972]LogBlueprintUserMessages: [EnemyCharacter10] 89.0
+[2017.11.15-22.07.52:107][972]LogBlueprintUserMessages: [EnemyCharacter9] 92.0
+[2017.11.15-22.07.52:108][972]LogBlueprintUserMessages: [EnemyCharacter9] 91.0
+[2017.11.15-22.07.52:108][972]LogBlueprintUserMessages: [EnemyCharacter9] 90.0
+[2017.11.15-22.07.52:108][972]LogBlueprintUserMessages: [EnemyCharacter10] 88.0
+[2017.11.15-22.07.52:120][973]LogBlueprintUserMessages: [EnemyCharacter10] 87.0
+[2017.11.15-22.07.52:166][977]LogBlueprintUserMessages: [EnemyCharacter9] 89.0
+[2017.11.15-22.07.52:485][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Exit Slide
+[2017.11.15-22.07.52:485][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] No more sliding
+[2017.11.15-22.07.53:815][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.07.53:861][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.07.59:978][540]BlueprintLog: New page: Compile ShotgunProjectile_BP
+[2017.11.15-22.08.01:628][563]LogSavePackage: Save=77.55ms
+[2017.11.15-22.08.01:628][563]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/ShotgunProjectile_BPF42D05DD4BD5BC86D0F59DA1DA824C06.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset'
+[2017.11.15-22.08.01:637][563]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset
+[2017.11.15-22.08.03:325][670]LogSavePackage: Save=69.72ms
+[2017.11.15-22.08.03:325][670]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/ShotgunProjectile_BP01742F324928159C14B8A3BA68C1978B.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset'
+[2017.11.15-22.08.03:331][670]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset
+[2017.11.15-22.08.55:608][975]BlueprintLog: New page: Compile ShotgunProjectile_BP
+[2017.11.15-22.09.26:877][ 47]BlueprintLog: New page: Compile ShotgunProjectile_BP
+[2017.11.15-22.09.28:513][ 69]LogSavePackage: Save=86.29ms
+[2017.11.15-22.09.28:513][ 69]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/ShotgunProjectile_BP4683CF2B449E114B44075289B828854B.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset'
+[2017.11.15-22.09.28:523][ 69]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset
+[2017.11.15-22.09.45:198][228]BlueprintLog: New page: Compile ShotgunProjectile_BP
+[2017.11.15-22.09.46:819][251]LogSavePackage: Save=109.55ms
+[2017.11.15-22.09.46:819][251]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/ShotgunProjectile_BP297675524716E37A0652F8B508880A36.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset'
+[2017.11.15-22.09.46:828][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset
+[2017.11.15-22.09.48:168][369]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-22.09.48:211][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.09.48:211][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-22.09.48:211][369]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2017, 12:09:48 PM)
+[2017.11.15-22.09.48:211][369]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-22.09.48:234][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023038s)
+[2017.11.15-22.09.48:235][369]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-22.09.48:236][369]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2017.11.15-22.09.48:236][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024702s)
+[2017.11.15-22.09.48:263][369]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-22.09.48:268][369]LogInit: FAudioDevice initialized.
+[2017.11.15-22.09.48:301][369]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-22.09.48:308][369]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.15-17.09.48
+[2017.11.15-22.09.48:311][369]LogWorld: Bringing up level for play took: 0.009130
+[2017.11.15-22.09.48:313][369]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.66
+[2017.11.15-22.09.48:314][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.09.52:267][813]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.09.52:268][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_0] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:268][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_1] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:268][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_2] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:269][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_3] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:269][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_4] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:269][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_5] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:270][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_6] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:270][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_7] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:270][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_8] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:271][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_9] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:272][813]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_10] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.52:676][858]LogBlueprintUserMessages: [EnemyCharacter10] 99.0
+[2017.11.15-22.09.52:676][858]LogBlueprintUserMessages: [EnemyCharacter10] 98.0
+[2017.11.15-22.09.52:677][858]LogBlueprintUserMessages: [EnemyCharacter10] 97.0
+[2017.11.15-22.09.52:695][860]LogBlueprintUserMessages: [EnemyCharacter10] 96.0
+[2017.11.15-22.09.52:715][862]LogBlueprintUserMessages: [EnemyCharacter9] 99.0
+[2017.11.15-22.09.54:984][101]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.09.54:984][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_11] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.54:985][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_12] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.54:985][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_13] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.54:986][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_14] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.54:986][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_15] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.54:986][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_16] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.54:987][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_17] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.54:987][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_18] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.54:987][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_19] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.54:988][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_20] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.54:988][101]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_21] MY DAMAGE IS: 1.0
+[2017.11.15-22.09.55:181][121]LogBlueprintUserMessages: [EnemyCharacter10] 95.0
+[2017.11.15-22.09.55:181][121]LogBlueprintUserMessages: [EnemyCharacter10] 94.0
+[2017.11.15-22.09.55:181][121]LogBlueprintUserMessages: [EnemyCharacter10] 93.0
+[2017.11.15-22.09.55:203][123]LogBlueprintUserMessages: [EnemyCharacter9] 98.0
+[2017.11.15-22.09.55:203][123]LogBlueprintUserMessages: [EnemyCharacter9] 97.0
+[2017.11.15-22.09.55:204][123]LogBlueprintUserMessages: [EnemyCharacter9] 96.0
+[2017.11.15-22.09.55:214][124]LogBlueprintUserMessages: [EnemyCharacter9] 95.0
+[2017.11.15-22.09.55:912][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.09.55:957][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.10.23:990][229]LogEditorTransaction: Undo Move Node
+[2017.11.15-22.10.24:646][261]LogEditorTransaction: Undo Create Reroute Node
+[2017.11.15-22.10.25:230][292]LogEditorTransaction: Undo Create Pin Link
+[2017.11.15-22.10.41:789][343]BlueprintLog: New page: Compile ShotgunProjectile_BP
+[2017.11.15-22.10.43:394][362]LogSavePackage: Save=88.34ms
+[2017.11.15-22.10.43:394][362]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/ShotgunProjectile_BPB1AC6E9241246BB75129D488E0C3260D.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset'
+[2017.11.15-22.10.43:402][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/Blueprints/PlayerAttacks/ShotgunProjectile_BP.uasset
+[2017.11.15-22.10.44:502][454]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-22.10.44:545][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.10.44:545][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-22.10.44:545][454]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2017, 12:10:44 PM)
+[2017.11.15-22.10.44:545][454]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-22.10.44:568][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022331s)
+[2017.11.15-22.10.44:569][454]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-22.10.44:569][454]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2017.11.15-22.10.44:569][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023914s)
+[2017.11.15-22.10.44:596][454]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-22.10.44:601][454]LogInit: FAudioDevice initialized.
+[2017.11.15-22.10.44:639][454]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-22.10.44:646][454]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.15-17.10.44
+[2017.11.15-22.10.44:649][454]LogWorld: Bringing up level for play took: 0.009058
+[2017.11.15-22.10.44:651][454]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.322
+[2017.11.15-22.10.44:651][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.10.48:101][838]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.10.48:102][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_0] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:102][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_1] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:103][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_2] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:103][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_3] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:103][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_4] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:104][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_5] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:104][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_6] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:105][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_7] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:105][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_8] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:105][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_9] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:106][838]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_10] MY DAMAGE IS: 1.0
+[2017.11.15-22.10.48:606][891]LogBlueprintUserMessages: [EnemyCharacter10] 99.0
+[2017.11.15-22.10.48:616][892]LogBlueprintUserMessages: [EnemyCharacter10] 98.0
+[2017.11.15-22.10.48:616][892]LogBlueprintUserMessages: [EnemyCharacter10] 97.0
+[2017.11.15-22.10.48:646][895]LogBlueprintUserMessages: [EnemyCharacter9] 99.0
+[2017.11.15-22.10.48:646][895]LogBlueprintUserMessages: [EnemyCharacter9] 98.0
+[2017.11.15-22.10.48:647][895]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_0] METER LEVEL:101.0
+[2017.11.15-22.10.48:656][896]LogBlueprintUserMessages: [EnemyCharacter9] 97.0
+[2017.11.15-22.10.48:793][910]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_6] METER LEVEL:102.0
+[2017.11.15-22.10.48:812][912]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_7] METER LEVEL:103.0
+[2017.11.15-22.10.48:812][912]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_5] METER LEVEL:104.0
+[2017.11.15-22.10.48:839][915]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_3] METER LEVEL:105.0
+[2017.11.15-22.10.48:840][915]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_2] METER LEVEL:106.0
+[2017.11.15-22.10.48:850][916]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_1] METER LEVEL:107.0
+[2017.11.15-22.10.50:056][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.10.50:101][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.11.05:744][191]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.11.08:266][192]LogSavePackage: Save=712.72ms
+[2017.11.15-22.11.08:267][192]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterABF3FAD5491BB541971A17A16F12E7DD.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-22.11.08:275][192]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-22.11.25:950][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-22.11.26:070][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.11.26:070][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-22.11.26:070][ 63]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2017, 12:11:26 PM)
+[2017.11.15-22.11.26:070][ 63]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-22.11.26:093][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023082s)
+[2017.11.15-22.11.26:095][ 63]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-22.11.26:095][ 63]LogPlayLevel: PIE: World Init took: (0.001769s)
+[2017.11.15-22.11.26:096][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025385s)
+[2017.11.15-22.11.26:125][ 63]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-22.11.26:130][ 63]LogInit: FAudioDevice initialized.
+[2017.11.15-22.11.26:160][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-22.11.26:167][ 63]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.15-17.11.26
+[2017.11.15-22.11.26:170][ 63]LogWorld: Bringing up level for play took: 0.009476
+[2017.11.15-22.11.26:172][ 63]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.8
+[2017.11.15-22.11.26:173][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.11.32:797][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.11.32:843][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.11.37:798][124]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-22.11.37:837][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.11.37:837][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-22.11.37:837][124]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2017, 12:11:37 PM)
+[2017.11.15-22.11.37:837][124]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-22.11.37:860][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022821s)
+[2017.11.15-22.11.37:861][124]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-22.11.37:862][124]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2017.11.15-22.11.37:862][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024528s)
+[2017.11.15-22.11.37:888][124]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-22.11.37:893][124]LogInit: FAudioDevice initialized.
+[2017.11.15-22.11.37:931][124]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-22.11.37:937][124]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.15-17.11.37
+[2017.11.15-22.11.37:940][124]LogWorld: Bringing up level for play took: 0.009034
+[2017.11.15-22.11.37:942][124]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.969
+[2017.11.15-22.11.37:943][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.11.39:042][242]LogScript: Warning: Accessed None trying to read property CurrentBloodPool
+	PlayerCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/PlayerCharacter.PlayerCharacter_C:ExecuteUbergraph_PlayerCharacter:0BF0
+[2017.11.15-22.11.39:043][242]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CurrentBloodPool from function: 'ExecuteUbergraph_PlayerCharacter' from node: Branch in graph: EventGraph in object: PlayerCharacter with description: Accessed None trying to read property CurrentBloodPool
+[2017.11.15-22.11.39:918][342]LogScript: Warning: Accessed None trying to read property CurrentBloodPool
+	PlayerCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/PlayerCharacter.PlayerCharacter_C:ExecuteUbergraph_PlayerCharacter:0BF0
+[2017.11.15-22.11.39:918][342]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CurrentBloodPool from function: 'ExecuteUbergraph_PlayerCharacter' from node: Branch in graph: EventGraph in object: PlayerCharacter with description: Accessed None trying to read property CurrentBloodPool
+[2017.11.15-22.11.40:200][374]LogScript: Warning: Accessed None trying to read property CurrentBloodPool
+	PlayerCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/PlayerCharacter.PlayerCharacter_C:ExecuteUbergraph_PlayerCharacter:0BF0
+[2017.11.15-22.11.40:200][374]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CurrentBloodPool from function: 'ExecuteUbergraph_PlayerCharacter' from node: Branch in graph: EventGraph in object: PlayerCharacter with description: Accessed None trying to read property CurrentBloodPool
+[2017.11.15-22.11.40:416][399]LogScript: Warning: Accessed None trying to read property CurrentBloodPool
+	PlayerCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/PlayerCharacter.PlayerCharacter_C:ExecuteUbergraph_PlayerCharacter:0BF0
+[2017.11.15-22.11.40:416][399]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CurrentBloodPool from function: 'ExecuteUbergraph_PlayerCharacter' from node: Branch in graph: EventGraph in object: PlayerCharacter with description: Accessed None trying to read property CurrentBloodPool
+[2017.11.15-22.11.40:621][423]LogScript: Warning: Accessed None trying to read property CurrentBloodPool
+	PlayerCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/PlayerCharacter.PlayerCharacter_C:ExecuteUbergraph_PlayerCharacter:0BF0
+[2017.11.15-22.11.40:621][423]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CurrentBloodPool from function: 'ExecuteUbergraph_PlayerCharacter' from node: Branch in graph: EventGraph in object: PlayerCharacter with description: Accessed None trying to read property CurrentBloodPool
+[2017.11.15-22.11.40:828][446]LogScript: Warning: Accessed None trying to read property CurrentBloodPool
+	PlayerCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/PlayerCharacter.PlayerCharacter_C:ExecuteUbergraph_PlayerCharacter:0BF0
+[2017.11.15-22.11.40:828][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CurrentBloodPool from function: 'ExecuteUbergraph_PlayerCharacter' from node: Branch in graph: EventGraph in object: PlayerCharacter with description: Accessed None trying to read property CurrentBloodPool
+[2017.11.15-22.11.41:431][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.11.41:545][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.12.17:073][445]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.12.19:575][446]LogSavePackage: Save=711.00ms
+[2017.11.15-22.12.19:576][446]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterA70B90C44E27505735F4CCA8DAA50EC6.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-22.12.19:585][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-22.12.27:322][813]BlueprintLog: New page: Compile PlayerCharacter
+[2017.11.15-22.12.29:815][814]LogSavePackage: Save=707.17ms
+[2017.11.15-22.12.29:815][814]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/PlayerCharacterB1BDD6DE4321C59240B00B981AD64F47.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2017.11.15-22.12.29:824][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2017.11.15-22.12.30:534][877]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-22.12.30:655][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.12.30:655][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-22.12.30:655][877]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2017, 12:12:30 PM)
+[2017.11.15-22.12.30:655][877]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-22.12.30:678][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023088s)
+[2017.11.15-22.12.30:679][877]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-22.12.30:680][877]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2017.11.15-22.12.30:680][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025092s)
+[2017.11.15-22.12.30:709][877]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-22.12.30:714][877]LogInit: FAudioDevice initialized.
+[2017.11.15-22.12.30:748][877]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-22.12.30:755][877]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.15-17.12.30
+[2017.11.15-22.12.30:759][877]LogWorld: Bringing up level for play took: 0.009562
+[2017.11.15-22.12.30:761][877]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.212
+[2017.11.15-22.12.30:761][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.12.38:443][755]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.12.38:444][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_0] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:445][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_1] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:445][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_2] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:445][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_3] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:446][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_4] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:446][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_5] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:446][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_6] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:447][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_7] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:447][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_8] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:447][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_9] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:448][755]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_10] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.38:844][799]LogBlueprintUserMessages: [EnemyCharacter10] 99.0
+[2017.11.15-22.12.38:844][799]LogBlueprintUserMessages: [EnemyCharacter10] 98.0
+[2017.11.15-22.12.38:853][800]LogBlueprintUserMessages: [EnemyCharacter10] 97.0
+[2017.11.15-22.12.38:863][801]LogBlueprintUserMessages: [EnemyCharacter10] 96.0
+[2017.11.15-22.12.38:882][803]LogBlueprintUserMessages: [EnemyCharacter9] 99.0
+[2017.11.15-22.12.38:882][803]LogBlueprintUserMessages: [EnemyCharacter9] 98.0
+[2017.11.15-22.12.38:882][803]LogBlueprintUserMessages: [EnemyCharacter9] 97.0
+[2017.11.15-22.12.39:043][820]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_6] METER LEVEL:1.0
+[2017.11.15-22.12.39:043][820]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_5] METER LEVEL:2.0
+[2017.11.15-22.12.39:054][821]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_7] METER LEVEL:3.0
+[2017.11.15-22.12.39:064][822]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_4] METER LEVEL:4.0
+[2017.11.15-22.12.39:083][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_2] METER LEVEL:5.0
+[2017.11.15-22.12.39:083][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_1] METER LEVEL:6.0
+[2017.11.15-22.12.39:083][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_0] METER LEVEL:7.0
+[2017.11.15-22.12.41:337][ 62]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.12.41:338][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_11] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:338][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_12] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:338][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_13] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:339][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_14] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:339][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_15] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:340][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_16] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:340][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_17] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:340][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_18] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:341][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_19] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:341][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_20] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:342][ 62]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_21] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.41:597][ 89]LogBlueprintUserMessages: [EnemyCharacter9] 96.0
+[2017.11.15-22.12.41:597][ 89]LogBlueprintUserMessages: [EnemyCharacter9] 95.0
+[2017.11.15-22.12.41:607][ 90]LogBlueprintUserMessages: [EnemyCharacter9] 94.0
+[2017.11.15-22.12.41:607][ 90]LogBlueprintUserMessages: [EnemyCharacter9] 93.0
+[2017.11.15-22.12.41:618][ 91]LogBlueprintUserMessages: [EnemyCharacter9] 92.0
+[2017.11.15-22.12.41:618][ 91]LogBlueprintUserMessages: [EnemyCharacter10] 95.0
+[2017.11.15-22.12.41:628][ 92]LogBlueprintUserMessages: [EnemyCharacter10] 94.0
+[2017.11.15-22.12.41:628][ 92]LogBlueprintUserMessages: [EnemyCharacter10] 93.0
+[2017.11.15-22.12.41:629][ 92]LogBlueprintUserMessages: [EnemyCharacter10] 92.0
+[2017.11.15-22.12.41:639][ 93]LogBlueprintUserMessages: [EnemyCharacter10] 91.0
+[2017.11.15-22.12.41:650][ 94]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_15] METER LEVEL:8.0
+[2017.11.15-22.12.41:650][ 94]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_11] METER LEVEL:9.0
+[2017.11.15-22.12.41:650][ 94]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_13] METER LEVEL:10.0
+[2017.11.15-22.12.41:651][ 94]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_14] METER LEVEL:11.0
+[2017.11.15-22.12.41:651][ 94]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_12] METER LEVEL:12.0
+[2017.11.15-22.12.41:740][102]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_17] METER LEVEL:13.0
+[2017.11.15-22.12.41:751][103]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_16] METER LEVEL:14.0
+[2017.11.15-22.12.41:752][103]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_18] METER LEVEL:15.0
+[2017.11.15-22.12.41:752][103]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_19] METER LEVEL:16.0
+[2017.11.15-22.12.46:219][563]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.12.46:220][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_22] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:220][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_23] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:221][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_24] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:221][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_25] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:221][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_26] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:222][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_27] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:222][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_28] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:222][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_29] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:223][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_30] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:223][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_31] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:224][563]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_32] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.46:378][579]LogBlueprintUserMessages: [EnemyCharacter9] 91.0
+[2017.11.15-22.12.46:378][579]LogBlueprintUserMessages: [EnemyCharacter9] 90.0
+[2017.11.15-22.12.46:388][580]LogBlueprintUserMessages: [EnemyCharacter9] 89.0
+[2017.11.15-22.12.46:389][580]LogBlueprintUserMessages: [EnemyCharacter9] 88.0
+[2017.11.15-22.12.46:389][580]LogBlueprintUserMessages: [EnemyCharacter9] 87.0
+[2017.11.15-22.12.46:389][580]LogBlueprintUserMessages: [EnemyCharacter9] 86.0
+[2017.11.15-22.12.46:389][580]LogBlueprintUserMessages: [EnemyCharacter9] 85.0
+[2017.11.15-22.12.46:412][582]LogBlueprintUserMessages: [EnemyCharacter10] 90.0
+[2017.11.15-22.12.46:412][582]LogBlueprintUserMessages: [EnemyCharacter10] 89.0
+[2017.11.15-22.12.46:424][583]LogBlueprintUserMessages: [EnemyCharacter10] 88.0
+[2017.11.15-22.12.46:425][583]LogBlueprintUserMessages: [EnemyCharacter10] 87.0
+[2017.11.15-22.12.46:425][583]LogBlueprintUserMessages: [EnemyCharacter10] 86.0
+[2017.11.15-22.12.46:425][583]LogBlueprintUserMessages: [EnemyCharacter10] 85.0
+[2017.11.15-22.12.46:425][583]LogBlueprintUserMessages: [EnemyCharacter10] 84.0
+[2017.11.15-22.12.46:565][587]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_29] METER LEVEL:17.0
+[2017.11.15-22.12.46:566][587]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_31] METER LEVEL:18.0
+[2017.11.15-22.12.46:566][587]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_24] METER LEVEL:19.0
+[2017.11.15-22.12.46:566][587]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_32] METER LEVEL:20.0
+[2017.11.15-22.12.46:566][587]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_26] METER LEVEL:21.0
+[2017.11.15-22.12.46:566][587]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_27] METER LEVEL:22.0
+[2017.11.15-22.12.46:566][587]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_25] METER LEVEL:23.0
+[2017.11.15-22.12.46:566][587]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_30] METER LEVEL:24.0
+[2017.11.15-22.12.46:566][587]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_28] METER LEVEL:25.0
+[2017.11.15-22.12.46:566][587]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_23] METER LEVEL:26.0
+[2017.11.15-22.12.46:576][588]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_22] METER LEVEL:27.0
+[2017.11.15-22.12.48:464][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.12.48:513][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.12.53:534][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-22.12.53:572][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.12.53:572][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-22.12.53:572][ 73]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2017, 12:12:53 PM)
+[2017.11.15-22.12.53:572][ 73]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-22.12.53:596][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023289s)
+[2017.11.15-22.12.53:597][ 73]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-22.12.53:597][ 73]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2017.11.15-22.12.53:597][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025075s)
+[2017.11.15-22.12.53:627][ 73]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-22.12.53:632][ 73]LogInit: FAudioDevice initialized.
+[2017.11.15-22.12.53:665][ 73]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-22.12.53:673][ 73]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.15-17.12.53
+[2017.11.15-22.12.53:678][ 73]LogWorld: Bringing up level for play took: 0.011207
+[2017.11.15-22.12.53:680][ 73]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.707
+[2017.11.15-22.12.53:680][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.12.59:034][684]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.12.59:035][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_0] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:035][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_1] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:036][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_2] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:036][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_3] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:036][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_4] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:037][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_5] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:037][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_6] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:037][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_7] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:038][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_8] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:038][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_9] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:038][684]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_10] MY DAMAGE IS: 1.0
+[2017.11.15-22.12.59:613][748]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_0] METER LEVEL:1.0
+[2017.11.15-22.12.59:998][791]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.13.00:303][824]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.13.00:304][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_11] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:304][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_12] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:304][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_13] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:305][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_14] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:305][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_15] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:306][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_16] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:306][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_17] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:307][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_18] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:307][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_19] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:308][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_20] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:308][824]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_21] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.00:850][882]LogBlueprintUserMessages: [EnemyCharacter10] 99.0
+[2017.11.15-22.13.00:850][882]LogBlueprintUserMessages: [EnemyCharacter10] 98.0
+[2017.11.15-22.13.00:869][884]LogBlueprintUserMessages: [EnemyCharacter10] 97.0
+[2017.11.15-22.13.00:888][886]LogBlueprintUserMessages: [EnemyCharacter9] 99.0
+[2017.11.15-22.13.00:888][886]LogBlueprintUserMessages: [EnemyCharacter9] 98.0
+[2017.11.15-22.13.00:907][888]LogBlueprintUserMessages: [EnemyCharacter9] 97.0
+[2017.11.15-22.13.01:044][902]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_15] METER LEVEL:2.0
+[2017.11.15-22.13.01:044][902]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_16] METER LEVEL:3.0
+[2017.11.15-22.13.01:063][904]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_14] METER LEVEL:4.0
+[2017.11.15-22.13.01:082][906]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_11] METER LEVEL:5.0
+[2017.11.15-22.13.01:082][906]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_12] METER LEVEL:6.0
+[2017.11.15-22.13.01:101][908]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_13] METER LEVEL:7.0
+[2017.11.15-22.13.01:615][964]LogBlueprintUserMessages: [ShotgunWeapon_BP_C_0] TRY TO FIRE!
+[2017.11.15-22.13.01:616][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_22] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.01:616][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_23] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.01:617][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_24] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.01:617][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_25] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.01:617][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_26] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.01:618][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_27] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.01:618][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_28] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.01:619][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_29] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.01:619][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_30] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.01:619][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_31] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.01:620][964]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_32] MY DAMAGE IS: 1.0
+[2017.11.15-22.13.02:066][ 10]LogBlueprintUserMessages: [EnemyCharacter10] 96.0
+[2017.11.15-22.13.02:066][ 10]LogBlueprintUserMessages: [EnemyCharacter10] 95.0
+[2017.11.15-22.13.02:067][ 10]LogBlueprintUserMessages: [EnemyCharacter10] 94.0
+[2017.11.15-22.13.02:095][ 13]LogBlueprintUserMessages: [EnemyCharacter9] 96.0
+[2017.11.15-22.13.02:096][ 13]LogBlueprintUserMessages: [EnemyCharacter9] 95.0
+[2017.11.15-22.13.02:107][ 14]LogBlueprintUserMessages: [EnemyCharacter9] 94.0
+[2017.11.15-22.13.02:264][ 30]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_29] METER LEVEL:8.0
+[2017.11.15-22.13.02:264][ 30]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_28] METER LEVEL:9.0
+[2017.11.15-22.13.02:264][ 30]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_27] METER LEVEL:10.0
+[2017.11.15-22.13.02:288][ 32]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_22] METER LEVEL:11.0
+[2017.11.15-22.13.02:288][ 32]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_23] METER LEVEL:12.0
+[2017.11.15-22.13.02:300][ 33]LogBlueprintUserMessages: [ShotgunProjectile_BP_C_24] METER LEVEL:13.0
+[2017.11.15-22.13.07:258][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] BLOOD STRIKE!
+[2017.11.15-22.13.11:249][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.13.11:365][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-22.13.12:079][ 48]LogSavePackage: Save=160.53ms
+[2017.11.15-22.13.12:080][ 48]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/ThirdPersonExampleMap617C2A324C0AA33A8FCD58B4BA1480C5.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.15-22.13.12:089][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.15-22.13.12:278][ 48]LogSavePackage: Save=84.64ms
+[2017.11.15-22.13.12:278][ 48]LogSavePackage: Moving '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Saved/ThirdPersonExampleMap_BuiltData8FF510E744567101652CBA940FFDF5F9.tmp' to '../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.15-22.13.12:282][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Henry/Documents/Work/IMGD4900/imgd4900/IMGD4900 4.17/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.15-22.13.28:291][755]LogUObjectArray: Warning: Other object in slot
+[2017.11.15-22.13.29:278][755]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.969 s
+[2017.11.15-22.13.29:278][755]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: 
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1037]
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: Stack: 
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FA463E36
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FA1EC2D2
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FA204746
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000F633D3E6
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000F39FFB2B
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000E974259A
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000E95D737C
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000E95DA8E9
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000E9706C25
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000007494A47
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000000749AC21
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000076D03A3
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000074F1E65
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000074CA28C
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000074BB444
+[2017.11.15-22.13.29:279][755]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FA43B5AC
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FA423EE1
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FA43D5BB
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FA41F042
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: USER32.dll!0x000000004721BC50
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: USER32.dll!0x000000004721B5CF
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FA43DCC6
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: UE4Editor.exe!0x00000000DF844BE2
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: UE4Editor.exe!0x00000000DF853970
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: UE4Editor.exe!0x00000000DF8539EA
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: UE4Editor.exe!0x00000000DF8602D9
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: UE4Editor.exe!0x00000000DF861C47
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: KERNEL32.DLL!0x00000000474B2774
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: ntdll.dll!0x0000000049900D51
+[2017.11.15-22.13.29:280][755]LogOutputDevice: Error: 
+[2017.11.15-22.13.29:289][755]LogStats:                SubmitErrorReport -  0.000 s
